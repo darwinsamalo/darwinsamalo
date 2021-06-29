@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @darwinsamalo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm [Darwin][website] 👋
 
-<!---
-darwinsamalo/darwinsamalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in everything
+- 🌱 I’m currently working on ASP.NET project (Bina Nusantara)
+- 👯 Connect with me [Linkedin][linkedin]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwinsamalo&show_icons=true&theme=dark&count_private=true&hide=stars,issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- LINK: -->
+[website]: https://codeSTACKr.com
+[linkedin]: https://www.linkedin.com/in/darwinsamalo/
